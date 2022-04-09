@@ -8,7 +8,7 @@ pkg install yarn -y
 pkg install git -y
 git clone https://github.com/Blackstorm155/Whatsapp-Bot1
 cd
-cd aeron-bot
+cd Whatsapp-Bot1
 yarn install
 node index.js
 ```
