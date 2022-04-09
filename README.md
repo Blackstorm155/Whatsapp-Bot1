@@ -6,7 +6,7 @@ pkg upgrade && pkg update
 pkg install nodejs -y
 pkg install yarn -y
 pkg install git -y
-git clone https://github.com/R1ynz/aeron-bot
+git clone https://github.com/Blackstorm155/Whatsapp-Bot1
 cd
 cd aeron-bot
 yarn install
